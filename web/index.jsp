@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  Hello World!!Hello java_web!!
+  Hello World!!Hello java_web!
   </body>
 </html>
